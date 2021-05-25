@@ -18,6 +18,11 @@
       <artifactId>olog-es</artifactId>
       <version>${olog-es.version}</version>
     </dependency>
+    <dependency>
+      <groupId>org.phoebus</groupId>
+      <artifactId>kafka-integration</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <build>
